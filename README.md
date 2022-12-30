@@ -6,6 +6,8 @@ This is a simple e-commerce website developed using the React JavaScript library
 
 ![](https://media.giphy.com/media/4R8vtRen8pAgu9IGxk/giphy.gif)
 
+# [Presentation](https://tome.app/project1-f2d/project-1-clcaudrir1nj57f3csocd5ux5)
+
 
 ## Techonology used in the project
 | |  |
