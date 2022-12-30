@@ -13,3 +13,6 @@ This is a simple e-commerce website developed using the React JavaScript library
 | UI Library| React JS|
 | Backend | Firebase |
 | Other Libraries| react-parallax-tilt, react-toastify, react icons|
+
+## Caution ⚠️
+This project is still work-in-progress. So far, I've done very little effort on mobile responsive design. Soon, a signup, login, and authentication option will be available.
