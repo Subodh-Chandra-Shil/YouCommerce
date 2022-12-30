@@ -8,3 +8,8 @@ This is a simple e-commerce website developed using the React JavaScript library
 
 
 ## Techonology used in the project
+| |  |
+|-----------------|-----------------|
+| UI Library| React JS|
+| Backend | Firebase |
+| Other Libraries| react-parallax-tilt, react-toastify, react icons|
